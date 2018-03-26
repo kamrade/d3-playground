@@ -1,16 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow:400,700|Archivo:400,700');
 @import "./bootstrap/bootstrap";
 
-.container {
-  background-color: $gray-100;
-  color: $gray-800;
-  padding: 1rem;
-  border-radius: 3px;
-}
-
-.img-container {
-  position: relative;
-  img {
-    position: relative;
-    width: 100%;
-  }
+body {
+  // font-family: 'Archivo Narrow', sans-serif;
+  font-family: 'Archivo', sans-serif;
 }
